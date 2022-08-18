@@ -17,4 +17,5 @@ def forum():
     else:
         return 'Show articles'
 
-app.run()
+if(__name__ == "__main__"):
+    app.run()

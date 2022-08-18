@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+
+# Ignore git
+.git
+.gitignore
+
+# others
+__pycache__
+env
